@@ -1,0 +1,8 @@
+{
+  "name": "voyager-worker-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:amilajack/voyager-worker-test.git",
+  "author": "Amila Welihinda <amilajack@gmail.com>",
+  "license": "MIT"
+}
